@@ -1,0 +1,5 @@
+Crear archivo de codigo fuente en block de notas.
+Guardarlo con la extencian asm y configuracion UTF-8.
+Instalar el emulador.
+Aabrir el emulador.
+utilizar el comando tasm <Nombre del archivo.asm>
