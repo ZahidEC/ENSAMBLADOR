@@ -3,3 +3,5 @@ Guardarlo con la extencian asm y configuracion UTF-8.
 Instalar el emulador.
 Aabrir el emulador.
 utilizar el comando tasm <Nombre del archivo.asm>
+Convertir el archivo a .obj con "tlink"
+Escribir el nombre del archivo en el emulador y verificar los mensajes en pantalla
